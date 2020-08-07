@@ -3,6 +3,7 @@ Dinesh Recommended shares
 
 | Shares | Holdings | Unit Value |
 | --- 	 | ---      | ---        |
+| `ASIANPAINT`| 6   | 1814       |
 | `APLLTD` |  10 | 919 |
 | `ASHOKLEY` | 276 | 54.10 |
 | `BANKBESS` | 60  | 261.30 |
