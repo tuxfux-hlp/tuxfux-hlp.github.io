@@ -3,6 +3,8 @@ Dinesh Recommended shares
 
 | Shares | Holdings | Unit Value |
 | --- 	 | ---      | ---        |
+| `ZENTEC`    | 52  | 76.40      |
+| `JSLHISAR`  | 48  | 88.90      |
 | `ASIANPAINT`| 6   | 1814       |
 | `APLLTD` |  10 | 919 |
 | `ASHOKLEY` | 276 | 54.10 |
