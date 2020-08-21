@@ -16,11 +16,12 @@ Dinesh Recommended shares
 | `HCLTECH`| 27  | 652.23 | ||
 | `HDFCLIFE`| 20 | 621.90 | ||
 | `INFY`    | 11 | 937.15 | ||
-| `JSLHISAR`| 60 | 77.85  | ||
+| `MHRIL`   | 61 | 188.85 | ||
 | `JUNIORBEES`|90 | 250.87 | ||
 | `NIFTYBEES`| 519 | 93.62 | ||
 | `YESBANK`  | 833 | 12.30 | yes | 15.50 |
 | `HDFCBANK`| 10 | 769    | yes | 1063.25 |
+| `JSLHISAR`| 60 | 77.85  | yes|106.70|
 
 MUTUALS
 
