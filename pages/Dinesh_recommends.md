@@ -2,12 +2,12 @@
 Dinesh Recommended shares
 
 | Shares | Holdings | Unit Value | Sold | Close Value | comments |
-| --- 	 | ---      | ---        | ---  | ---
-| `HDFC`      | 8   | 1825.35    | || | Long term keep adding|
-| `INDUSINDBK`| 26  | 522.40     |  || NA |
-| `ZENTEC`    | 52  | 76.40      | ||  NA |
-| `JSLHISAR`  | 48  | 88.90      | || Wait till 100 and come out |
-| `ASIANPAINT`| 6   | 1814       | || Wait till it moves |
+| --- 	 | ---      | ---        | ---  | --- | | 
+| `HDFC`      | 8   | 1825.35    |  |   | Long term keep adding|
+| `INDUSINDBK`| 26  | 522.40     |  |   | NA |
+| `ZENTEC`    | 52  | 76.40      |  |   |  NA |
+| `JSLHISAR`  | 48  | 88.90      |  |   | Wait till 100 and come out |
+| `ASIANPAINT`| 6   | 1814       |  |   |Wait till it moves |
 | `APLLTD` |  10 | 919 | || wait till 1150 and come out |
 | `ASHOKLEY` | 276 | 54.10 | || Wait till 90- 100 and come out |
 | `BANKBESS` | 60  | 261.30 | || Long temr keep adding |
